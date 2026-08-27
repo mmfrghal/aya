@@ -1,0 +1,6 @@
+{
+  "name": "محمود إلى آية - رسالة حب",
+  "description": "موقع ورسالة حب كلاسيكية من محمود إلى آية: حكاية بدأت بنظرة وأصبحت عمرًا",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
